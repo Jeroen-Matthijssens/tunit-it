@@ -1,0 +1,7 @@
+Main-Class: it.tutske.tunit.Main
+Class-Path: dependency/hamcrest-all-1.3.jar
+    dependency/hamcrest-core-1.3.jar
+    dependency/junit-4.11.jar
+    dependency/mockito-all-1.9.5.jar
+    dependency/slf4j-api-1.7.6.jar
+    dependency/tunit-1.0.0-SNAPSHOT.jar
